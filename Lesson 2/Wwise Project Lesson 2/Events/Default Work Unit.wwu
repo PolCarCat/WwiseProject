@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<WwiseDocument Type="WorkUnit" ID="{BB3F0547-578D-4CCC-9AA0-836AD05AE109}" SchemaVersion="85">
+<WwiseDocument Type="WorkUnit" ID="{BB3F0547-578D-4CCC-9AA0-836AD05AE109}" SchemaVersion="89">
 	<Events>
 		<WorkUnit Name="Default Work Unit" ID="{BB3F0547-578D-4CCC-9AA0-836AD05AE109}" PersistMode="Standalone">
 			<ChildrenList>
@@ -12,6 +12,49 @@
 							<ReferenceList>
 								<Reference Name="Target">
 									<ObjectRef Name="Shotgun_Blast" ID="{E83399F5-848E-4B4C-BEBD-AA5D1267904F}" WorkUnitID="{24CA6058-8300-4269-9BBA-0ED8E4EFE1BC}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{DD766F08-D03B-4525-8789-5AE7DBB3733A}" ShortID="43911290">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+								<Property Name="Delay" Type="Real64" Value="0.4"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Shotgun_Pump_In" ID="{E0CD65B7-0928-466D-8401-AB2DE481F208}" WorkUnitID="{24CA6058-8300-4269-9BBA-0ED8E4EFE1BC}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{ED35F5EE-EAAA-4113-91C2-43F1D8470ABE}" ShortID="312783659">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+								<Property Name="Delay" Type="Real64" Value="0.7"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Shotgun_Pump_Out" ID="{6F1EBC1A-7199-47CD-8B64-5CFE88714F35}" WorkUnitID="{24CA6058-8300-4269-9BBA-0ED8E4EFE1BC}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{53B8E3E9-B14A-4EC8-83F7-0A537A767B1F}" ShortID="350216943">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+								<Property Name="Delay" Type="Real64" Value="1.1">
+									<ModifierList>
+										<ModifierInfo>
+											<Modifier Name="" ID="{827B876D-C8F8-49C9-88A7-1E0BE9CB1A43}">
+												<PropertyList>
+													<Property Name="Max" Type="Real64" Value="0.4"/>
+												</PropertyList>
+											</Modifier>
+										</ModifierInfo>
+									</ModifierList>
+								</Property>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Shotgun Shells" ID="{65003E06-BA16-478E-A0A7-664472FAA807}" WorkUnitID="{24CA6058-8300-4269-9BBA-0ED8E4EFE1BC}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>
