@@ -1052,6 +1052,39 @@
 				<Sound Name="Heartbeat" ID="{6F6B78E5-5D0C-46DF-9EB5-C6092FFC226A}" ShortID="1016647195">
 					<PropertyList>
 						<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
+						<Property Name="Lowpass" Type="int16">
+							<RTPCList>
+								<RTPC Name="" ID="{9834A8FD-FEC8-4C83-B29D-EC978A5B8C4D}" ShortID="109681918">
+									<ReferenceList>
+										<Reference Name="ControlInput">
+											<ObjectRef Name="PlayerHealth" ID="{4401D293-8AAC-4489-BA98-25782E2D6DE1}" WorkUnitID="{3730BD51-F4D2-44D4-B909-5A881A6F8836}"/>
+										</Reference>
+									</ReferenceList>
+									<Curve Name="" ID="{BC8DD3FF-4123-4377-8B58-5D1D9E7DAC29}">
+										<PropertyList>
+											<Property Name="Flags" Type="int32" Value="65537"/>
+										</PropertyList>
+										<PointList>
+											<Point>
+												<XPos>0</XPos>
+												<YPos>0</YPos>
+												<Flags>5</Flags>
+											</Point>
+											<Point>
+												<XPos>56.20609</XPos>
+												<YPos>100</YPos>
+												<Flags>0</Flags>
+											</Point>
+											<Point>
+												<XPos>100</XPos>
+												<YPos>100</YPos>
+												<Flags>37</Flags>
+											</Point>
+										</PointList>
+									</Curve>
+								</RTPC>
+							</RTPCList>
+						</Property>
 						<Property Name="Volume" Type="Real64">
 							<RTPCList>
 								<RTPC Name="" ID="{2E1FE7B9-7AE6-4553-9177-D1ED3BE5EB65}" ShortID="781051797">
@@ -1101,6 +1134,28 @@
 							<AudioFile>Heartbeat.wav</AudioFile>
 						</AudioFileSource>
 					</ChildrenList>
+					<StateInfo>
+						<StateGroupList>
+							<StateGroupInfo>
+								<StateGroupRef Name="PlayerLife" ID="{AD4D43A2-E97B-4305-89C4-BF79B483B11C}"/>
+							</StateGroupInfo>
+						</StateGroupList>
+						<CustomStateList>
+							<CustomState>
+								<StateRef Name="Dead" ID="{2D1EF960-1AFE-401A-9DB9-787516E5F655}"/>
+								<State Name="" ID="{19933013-244F-4DFE-9441-4D4F50CA91B5}" ShortID="337865376">
+									<PropertyList>
+										<Property Name="Lowpass" Type="int16" Value="100"/>
+										<Property Name="Volume" Type="Real64" Value="-96"/>
+									</PropertyList>
+								</State>
+							</CustomState>
+							<CustomState>
+								<StateRef Name="Alive" ID="{1D1449ED-6F41-4119-A4D7-AE939715FA12}"/>
+								<State Name="" ID="{781BDDAC-F338-451C-BF10-F16C87098288}" ShortID="865253456"/>
+							</CustomState>
+						</CustomStateList>
+					</StateInfo>
 					<ActiveSourceList>
 						<ActiveSource Name="Heartbeat" ID="{92406DE0-F53B-4753-B24B-4FC50403F168}" Platform="Linked"/>
 					</ActiveSourceList>

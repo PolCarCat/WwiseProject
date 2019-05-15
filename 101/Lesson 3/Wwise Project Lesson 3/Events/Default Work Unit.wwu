@@ -61,7 +61,34 @@
 						</Action>
 					</ChildrenList>
 				</Event>
-				<Event Name="Foot_Player" ID="{DE66A1CC-F2DB-4461-9662-8276D097555D}"/>
+				<Event Name="Foot_Player" ID="{DE66A1CC-F2DB-4461-9662-8276D097555D}">
+					<ChildrenList>
+						<Action Name="" ID="{DFF4BFE1-A381-4276-A175-5AA9ECE25634}" ShortID="1048826275">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Footsteps" ID="{3895D2DB-146A-4286-8B2A-92EF9A9D11A4}" WorkUnitID="{24CA6058-8300-4269-9BBA-0ED8E4EFE1BC}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="DCP_Music" ID="{52AE768D-486B-42C8-A111-170AB9EFC19A}">
+					<ChildrenList>
+						<Action Name="" ID="{1213AA74-EEE7-4072-8718-5712697F3ACF}" ShortID="664999925">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Heartbeat" ID="{6F6B78E5-5D0C-46DF-9EB5-C6092FFC226A}" WorkUnitID="{24CA6058-8300-4269-9BBA-0ED8E4EFE1BC}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>
