@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<WwiseDocument Type="WorkUnit" ID="{9D443419-4C0F-4177-9A8C-5AE9164B1D27}" SchemaVersion="85">
+<WwiseDocument Type="WorkUnit" ID="{9D443419-4C0F-4177-9A8C-5AE9164B1D27}" SchemaVersion="94">
 	<SoundBanks>
 		<WorkUnit Name="Default Work Unit" ID="{9D443419-4C0F-4177-9A8C-5AE9164B1D27}" PersistMode="Standalone">
 			<ChildrenList>
@@ -7,6 +7,7 @@
 					<ObjectInclusionList>
 						<ObjectRef Name="Fire_Shotgun_Player" ID="{35E43546-9745-4491-90E8-29D7AA4D2D48}" WorkUnitID="{27ACFC61-8688-482D-A1F6-F21654EA4BDE}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="Foot_Player" ID="{CD3220B6-6533-44A7-AB5E-1E76F01B83E5}" WorkUnitID="{27ACFC61-8688-482D-A1F6-F21654EA4BDE}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Emitter_Teleport" ID="{2EF79BF6-FD4F-4A7F-B1A1-AFFE8713ED9F}" WorkUnitID="{27ACFC61-8688-482D-A1F6-F21654EA4BDE}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="DCP_Music" ID="{619B0572-9D40-4FF1-9CDE-5CAB5D4A7BD5}" WorkUnitID="{27ACFC61-8688-482D-A1F6-F21654EA4BDE}" Filter="7" Origin="Manual"/>
 					</ObjectInclusionList>
 					<ObjectExclusionList/>
