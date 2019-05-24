@@ -1,13 +1,34 @@
 State Group	ID	Name			Wwise Object Path	Notes
-	444815956	PlayerLife			\Default Work Unit\PlayerLife	
+	444815956	PlayerLife			\Default Work Unit\PlayerLife	Player is alive or dead.
+	481714212	PlayerInWater			\Default Work Unit\PlayerInWater	Player is in water.
+	1642418719	PlayerHasQuad			\Default Work Unit\PlayerHasQuad	Player is in quad damage mode.
 
 State	ID	Name	State Group			Notes
 	0	None	PlayerLife			
 	655265632	Alive	PlayerLife			
 	2044049779	Dead	PlayerLife			
+	0	None	PlayerInWater			
+	979470758	Yes	PlayerInWater			
+	1668749452	No	PlayerInWater			
+	0	None	PlayerHasQuad			
+	979470758	Yes	PlayerHasQuad			
+	1668749452	No	PlayerHasQuad			
+
+Custom State	ID	Name	State Group	Owner		Notes
+	1048049432	Dead	PlayerLife	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Environmental		
 
 Audio Bus	ID	Name			Wwise Object Path	Notes
+	393239870	SFX			\Default Work Unit\Master Audio Bus\Environmental\SFX	
+	1973600711	Environmental			\Default Work Unit\Master Audio Bus\Environmental	
 	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+	3991942870	Music			\Default Work Unit\Master Audio Bus\Music	
+
+Auxiliary Bus	ID	Name			Wwise Object Path	Notes
+	194525819	env_corridor			\Default Work Unit\Master Audio Bus\Environmental\env_corridor	
+
+Effect plug-ins	ID	Name	Type				Notes
+	783969252	env_small_room	Wwise RoomVerb			
+	953188324	Default (Custom)	Wwise Peak Limiter			
 
 Audio Devices	ID	Name	Type				Notes
 	2317455096	No_Output	No Output			
