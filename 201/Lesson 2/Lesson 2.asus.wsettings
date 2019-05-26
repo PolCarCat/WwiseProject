@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="UserProjectSettings" SchemaVersion="89">
+	<UserProjectSettingsInfo>
+		<UserProjectSettings Name="" ID="{2257B30F-021B-489D-9214-29005B668824}">
+			<PropertyList>
+				<Property Name="AudioFilesImporter\Path" Type="string" Value="C:\Users\asus\Documents\GitHub\WwiseProject\201\Cube Music\Combat\Combat-AB-Rhythm"/>
+				<Property Name="Event Action List\{07A942E8-7510-485D-98CC-5546534EDA90}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{4BE43D2E-808A-4089-A6D6-1B0DF45E6DEE}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="EventView\FilterMode1" Type="int32" Value="2"/>
+				<Property Name="ExternalSourcesInputPath" Type="string">
+					<ValueList>
+						<Value Platform="Mac"></Value>
+						<Value Platform="Windows"></Value>
+					</ValueList>
+				</Property>
+				<Property Name="ExternalSourcesOutputPath" Type="string">
+					<ValueList>
+						<Value Platform="Mac">GeneratedSoundBanks\Mac\</Value>
+						<Value Platform="Windows">GeneratedSoundBanks\Windows\</Value>
+					</ValueList>
+				</Property>
+				<Property Name="General\LatestLanguage" Type="int32" Value="684519430"/>
+				<Property Name="General\LatestPlatform" Type="string" Value="Windows"/>
+				<Property Name="General\SourceControlPluginID" Type="string" Value="{C403A906-0C19-4ED5-808E-748707065301}"/>
+				<Property Name="GenerateSoundBanks\x64_SelectedLanguages" Type="string" Value="BvDMKA=="/>
+				<Property Name="GenerateSoundBanks\x64_SelectedPlatforms" Type="string" Value="V7IMbsjGXEyDZidA38RB7A=="/>
+				<Property Name="GenerateSoundBanks\x64_SelectedSoundBanks" Type="string" Value="e2bnewVhykmPXyrz1sl7htRa8kz2IuRFveilZQRIvA4wpVa/nyUTT7TuRh/MFYVs"/>
+				<Property Name="HardwareController\CurrentSession" Type="string" Value="{00000000-0000-0000-0000-000000000000}"/>
+				<Property Name="Interactive Music\x64_{1045C23C-FF28-414F-BD96-98EF2A60677C} - SegmentEditorZoomInfo" Type="string" Value="AAAAAAAA8D8AAAAAAADwPzFcfynWk0xAAAAAAAAA8D8AAAAAAAAAAAAAAAAA6IhA"/>
+				<Property Name="MeterView\LastObject1" Type="string" Value="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}"/>
+				<Property Name="MeterView\MeterMode1" Type="int32" Value="1"/>
+				<Property Name="MeterView\MeterMode1Viewpoint0" Type="int32" Value="1"/>
+				<Property Name="MeterView\MeterMode1Viewpoint1" Type="int32" Value="2"/>
+				<Property Name="MeterView\MeterMode1Viewpoint2" Type="int32" Value="3"/>
+				<Property Name="MeterView\MeterMode1Viewpoint3" Type="int32" Value="0"/>
+				<Property Name="Mixing Desk\LastSession" Type="string" Value="{00000000-0000-0000-0000-000000000000}"/>
+				<Property Name="MonitoringManager\WatchMgr\WatchesVersion" Type="int32" Value="6"/>
+				<Property Name="MonitoringManager\WatchMgr\x64_GameSyncWatches" Type="string" Value=""/>
+				<Property Name="MonitoringManager\WatchMgr\x64_Watches" Type="string" Value=""/>
+				<Property Name="Music Transition List\{001AAE4F-53FA-448E-8CC0-D73A14F1A8BC}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Music Transition List\{276659A6-F917-4B42-91FA-DC87CEB938A1}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Music Transition List\{2C35B10A-620B-4872-92D7-6C3859ABBE5C}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Music Transition List\{366653C5-47E9-44D3-AE95-DA23A29B8E64}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Music Transition List\{397685EC-2806-4A5D-85DC-4150773E130A}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Music Transition List\{558099D2-763A-4AB5-8F1A-2776F1B0B0D2}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Music Transition List\{5DD7CB07-E5CA-44A7-AA6B-64543DC4A6A9}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Music Transition List\{6B91333B-7B76-4834-ABE1-C516BA6D892D}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Music Transition List\{6D513DA2-CDE5-4055-B672-020BA861D260}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Music Transition List\{743ED88C-12F8-49A6-A2C2-2716960BBD1D}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Music Transition List\{7942E124-8EA7-49E7-BE77-1E4FD611A3C3}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Music Transition List\{87412795-A096-4189-AAB3-0B43FF2A8E8F}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Music Transition List\{8B7128BC-67D5-43DC-B23B-733B94012D62}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Music Transition List\{AED34BCA-E6D7-4604-8771-B7A255B9B767}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Music Transition List\{B2A0FE08-7CF8-4CDE-B0F3-3D716AC7D115}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Music Transition List\{BDB28478-974A-4715-8AE7-803B84CA0378}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Music Transition List\{BDD0C59B-5228-481E-9E0B-86A7B837B748}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Music Transition List\{C57E9CA5-F6EF-4A48-BD2F-ED3264A74D3F}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Music Transition List\{E207C8A3-6B0C-4A99-AA1D-5B0451C21245}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Music Transition List\{E419B77D-9043-4EF9-91BB-7480F1F4C551}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Music Transition List\{F8B28085-DF9C-4243-AA15-3ABD4D661CC7}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="ProjectExplorer\FirstVisible_10_1" Type="string" Value="{4C96B38B-3DB4-40C7-91C9-665510E38993}"/>
+				<Property Name="ProjectExplorer\FirstVisible_11_1" Type="string" Value="{23EC2DE3-3ED8-4B82-AC99-92E25F2E4C6B}"/>
+				<Property Name="ProjectExplorer\FirstVisible_1_1" Type="string" Value="{2388DAEA-9775-46C6-A2ED-C5222A397756}"/>
+				<Property Name="ProjectExplorer\FirstVisible_3_1" Type="string" Value="{A69BF0FC-D84A-487C-ABDD-56F71CB2A126}"/>
+				<Property Name="ProjectExplorer\FirstVisible_4_1" Type="string" Value="{CB6175F1-6080-4A23-92EF-0807E304D0C1}"/>
+				<Property Name="ProjectExplorer\FirstVisible_6_1" Type="string" Value="{C98E673F-A24C-48A8-960F-10565FFE70A0}"/>
+				<Property Name="ProjectExplorer\FirstVisible_8_1" Type="string" Value="{41093F77-829F-4D88-8601-E8B25F3D4781}"/>
+				<Property Name="ProjectExplorer\x64_Expanded_10_1" Type="string" Value=""/>
+				<Property Name="ProjectExplorer\x64_Expanded_11_1" Type="string" Value=""/>
+				<Property Name="ProjectExplorer\x64_Expanded_12_1" Type="string" Value="3014JVn5tEijptRXzxPlYwj+oLL4fN5MsPM9cWrH0RU="/>
+				<Property Name="ProjectExplorer\x64_Expanded_13_1" Type="string" Value=""/>
+				<Property Name="ProjectExplorer\x64_Expanded_14_1" Type="string" Value=""/>
+				<Property Name="ProjectExplorer\x64_Expanded_15_1" Type="string" Value=""/>
+				<Property Name="ProjectExplorer\x64_Expanded_16_1" Type="string" Value=""/>
+				<Property Name="ProjectExplorer\x64_Expanded_17_1" Type="string" Value=""/>
+				<Property Name="ProjectExplorer\x64_Expanded_18_1" Type="string" Value=""/>
+				<Property Name="ProjectExplorer\x64_Expanded_19_1" Type="string" Value=""/>
+				<Property Name="ProjectExplorer\x64_Expanded_1_1" Type="string" Value=""/>
+				<Property Name="ProjectExplorer\x64_Expanded_20_1" Type="string" Value=""/>
+				<Property Name="ProjectExplorer\x64_Expanded_21_1" Type="string" Value=""/>
+				<Property Name="ProjectExplorer\x64_Expanded_2_1" Type="string" Value="u8pljUN2dUeMRTt/Ml1z7w=="/>
+				<Property Name="ProjectExplorer\x64_Expanded_3_1" Type="string" Value="YfysJ4iGLUih9vIWVOpL3lJ5gZ1w6JpIjHbqWYJ+l04="/>
+				<Property Name="ProjectExplorer\x64_Expanded_4_1" Type="string" Value=""/>
+				<Property Name="ProjectExplorer\x64_Expanded_5_1" Type="string" Value=""/>
+				<Property Name="ProjectExplorer\x64_Expanded_6_1" Type="string" Value=""/>
+				<Property Name="ProjectExplorer\x64_Expanded_7_1" Type="string" Value=""/>
+				<Property Name="ProjectExplorer\x64_Expanded_8_1" Type="string" Value=""/>
+				<Property Name="RTPC\GameParameterSimValue\{12A86CFA-9D0B-438E-8C88-ACE03D5EF5F5}" Type="Real64" Value="255"/>
+				<Property Name="RTPC\GameParameterSimValue\{1BC7160B-65AB-47A5-9D7E-CF39A0FF4D2A}" Type="Real64" Value="255"/>
+				<Property Name="RTPC\GameParameterSimValue\{9A7FE12B-15B9-4CBD-85BC-730450CE68B2}" Type="Real64" Value="255"/>
+				<Property Name="RTPC\GameParameterSimValue\{B1BC4BE3-DED0-4EF1-89E0-83D78E80839C}" Type="Real64" Value="100"/>
+				<Property Name="SoundBank Manager\x64_Expand States" Type="string" Value="GTREnQ9Md0GajFrpFksdJw=="/>
+				<Property Name="SoundBankHeaderFilePath" Type="string" Value="GeneratedSoundBanks\"/>
+				<Property Name="SoundBankPathUserOverride" Type="bool" Value="True"/>
+				<Property Name="SoundBankPaths" Type="string">
+					<ValueList>
+						<Value Platform="Mac">GeneratedSoundBanks\Mac\</Value>
+						<Value Platform="Windows">..\..\..\..\..\Desktop\Cube\cube\soundbanks\Windows\English(US)\</Value>
+					</ValueList>
+				</Property>
+				<Property Name="SoundBankPostGenerateCustomCmdDescription" Type="string">
+					<ValueList>
+						<Value Platform="Mac">Copy Streamed Files</Value>
+						<Value Platform="Windows">Copy Streamed Files</Value>
+					</ValueList>
+				</Property>
+				<Property Name="SoundBankPostGenerateCustomCmdLines" Type="string">
+					<ValueList>
+						<Value Platform="Mac">"$(WwiseExePath)\CopyStreamedFiles.exe" -info "$(InfoFilePath)" -outputpath "$(SoundBankPath)" -banks "$(SoundBankListAsTextFile)" -languages "$(LanguageList)"</Value>
+						<Value Platform="Windows">"$(WwiseExePath)\CopyStreamedFiles.exe" -info "$(InfoFilePath)" -outputpath "$(SoundBankPath)" -banks "$(SoundBankListAsTextFile)" -languages "$(LanguageList)"</Value>
+					</ValueList>
+				</Property>
+				<Property Name="SoundBankPreGenerateCustomCmdDescription" Type="string">
+					<ValueList>
+						<Value Platform="Mac"></Value>
+						<Value Platform="Windows"></Value>
+					</ValueList>
+				</Property>
+				<Property Name="SoundBankPreGenerateCustomCmdLines" Type="string">
+					<ValueList>
+						<Value Platform="Mac"></Value>
+						<Value Platform="Windows"></Value>
+					</ValueList>
+				</Property>
+			</PropertyList>
+		</UserProjectSettings>
+	</UserProjectSettingsInfo>
+</WwiseDocument>

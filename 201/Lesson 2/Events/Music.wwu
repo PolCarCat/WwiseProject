@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<WwiseDocument Type="WorkUnit" ID="{9D817952-E870-489A-8C76-EA59827E974E}" SchemaVersion="85">
+<WwiseDocument Type="WorkUnit" ID="{9D817952-E870-489A-8C76-EA59827E974E}" SchemaVersion="89">
 	<Events>
 		<WorkUnit Name="Music" ID="{9D817952-E870-489A-8C76-EA59827E974E}" PersistMode="Standalone">
 			<ChildrenList>
@@ -11,7 +11,7 @@
 							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Target">
-									<ObjectRef Name="Explore" ID="{3F63E32B-58A0-41E8-88C4-F97166420561}" WorkUnitID="{25784DDF-F959-48B4-A3A6-D457CF13E563}"/>
+									<ObjectRef Name="Combat" ID="{B2A0FE08-7CF8-4CDE-B0F3-3D716AC7D115}" WorkUnitID="{25784DDF-F959-48B4-A3A6-D457CF13E563}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<WwiseDocument Type="WorkUnit" ID="{27ACFC61-8688-482D-A1F6-F21654EA4BDE}" SchemaVersion="85">
+<WwiseDocument Type="WorkUnit" ID="{27ACFC61-8688-482D-A1F6-F21654EA4BDE}" SchemaVersion="89">
 	<Events>
 		<WorkUnit Name="Default Work Unit" ID="{27ACFC61-8688-482D-A1F6-F21654EA4BDE}" PersistMode="Standalone">
 			<ChildrenList>
@@ -56,6 +56,16 @@
 									<ReferenceList>
 										<Reference Name="Target">
 											<ObjectRef Name="Itempick" ID="{06FAF0EA-B606-4FD0-9274-444C206948AB}" WorkUnitID="{8D65CABB-7643-4775-8C45-3B7F325D73EF}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{9FF83C50-7C2C-4597-8940-278D85D298C5}" ShortID="996254329">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="35"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Health_Cue" ID="{AE8C0DFE-1633-4A4C-8596-C446EDA9B60E}" WorkUnitID="{CDCAF0C8-F9D0-4EF3-8A88-652DEAF3277B}"/>
 										</Reference>
 									</ReferenceList>
 								</Action>
@@ -240,6 +250,16 @@
 									<ReferenceList>
 										<Reference Name="Target">
 											<ObjectRef Name="Teleport" ID="{7E422F5C-D4D8-4B3F-B2CE-8E11467AC08C}" WorkUnitID="{8D65CABB-7643-4775-8C45-3B7F325D73EF}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{8BFD5D29-C0C0-42C8-91EA-B53974EDF108}" ShortID="113808259">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="35"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Cymbal_Swell" ID="{899E3637-B573-4BD2-9970-9F5EBB351DD4}" WorkUnitID="{CDCAF0C8-F9D0-4EF3-8A88-652DEAF3277B}"/>
 										</Reference>
 									</ReferenceList>
 								</Action>

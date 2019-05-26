@@ -209,6 +209,8 @@ namespace AK
 
     namespace BUSSES
     {
+        static const AkUniqueID ENV_MEDIUM_ROOM = 4102571502U;
+        static const AkUniqueID ENV_SMALL_ROOM = 783969252U;
         static const AkUniqueID ENVIRONMENTAL = 1973600711U;
         static const AkUniqueID ENVIRONMENTS = 3761286811U;
         static const AkUniqueID ITEMS = 2151963051U;
@@ -225,8 +227,6 @@ namespace AK
     {
         static const AkUniqueID ENV_CORRIDOR = 194525819U;
         static const AkUniqueID ENV_LARGE_ROOM = 3877888880U;
-        static const AkUniqueID ENV_MEDIUM_ROOM = 4102571502U;
-        static const AkUniqueID ENV_SMALL_ROOM = 783969252U;
     } // namespace AUX_BUSSES
 
     namespace AUDIO_DEVICES

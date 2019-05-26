@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<IncrementalBankBuild Version="6" Flags="1005917677">
+	<Platform GUID="{6E0CB257-C6C8-4C5C-8366-2740DFC441EC}">
+		<Banks>
+			<Language ID="393239870">
+				<File Name="DCP_the_core" Hash="1765538344" Timestamp="1558771950"/>
+				<File Name="Init" Hash="3428602362" Timestamp="1558771952"/>
+				<File Name="Main" Hash="3059171941" Timestamp="1558771951"/>
+				<File Name="Music" Hash="185407917" Timestamp="1558771952"/>
+			</Language>
+		</Banks>
+		<XMLInfo>
+			<Language ID="-1">
+				<File Name="" Hash="3423216626" Timestamp="1558771952"/>
+			</Language>
+		</XMLInfo>
+	</Platform>
+</IncrementalBankBuild>
